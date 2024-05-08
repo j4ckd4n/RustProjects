@@ -1,0 +1,7 @@
+[package]
+name = "echo_int"
+version = "0.1.0"
+edition = "2021"
+description = "Interactive Echo Program"
+
+[dependencies]
